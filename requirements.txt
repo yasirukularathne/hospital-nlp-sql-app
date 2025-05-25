@@ -101,7 +101,6 @@ parso==0.8.4
 peewee==3.17.9
 pillow==11.1.0
 platformdirs==4.3.7
-playsound==1.3.0
 plotly==6.1.1
 prompt_toolkit==3.0.50
 propcache==0.3.1
@@ -119,7 +118,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-multipart==0.0.20
 pytz==2025.2
-pywin32==310
 PyYAML==6.0.2
 pyzmq==26.4.0
 referencing==0.36.2
@@ -148,7 +146,7 @@ tabulate==0.9.0
 tenacity==9.1.2
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
-tensorflow @ file:///C:/tensorflow/tensorflow-2.19.0-cp311-cp311-win_amd64.whl#sha256=ade03804d81e696f8b9045bbe2dd5d0146e36c63d85bf2eae8225ffa74a03713
+tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==3.0.1
 tf_keras==2.19.0
@@ -176,4 +174,3 @@ wsproto==1.2.0
 yarl==1.20.0
 yfinance==0.2.55
 zstandard==0.23.0
-python-dotenv
