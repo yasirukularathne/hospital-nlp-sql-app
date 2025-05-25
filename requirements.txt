@@ -9,10 +9,3 @@ langchain-core==0.3.61
 langchain-groq==0.3.2
 langchain-community==0.3.24
 
-# Database dependencies
-SQLAlchemy==2.0.41
-
-# Utility packages
-pydantic==2.11.5
-regex==2024.11.6
-requests==2.32.3
